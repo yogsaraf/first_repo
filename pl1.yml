@@ -1,0 +1,8 @@
+---
+- name: sample playbook
+  hosts: all
+  gather_facts: yes
+  tasks:
+    - name: print sentence
+      debug: 
+        msg: "Hello"
