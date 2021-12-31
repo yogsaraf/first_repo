@@ -5,4 +5,4 @@
   tasks:
     - name: print sentence
       debug: 
-        msg: "Hello"
+        msg: "Hello ansible"
