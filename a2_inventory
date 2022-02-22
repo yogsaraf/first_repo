@@ -1,4 +1,4 @@
 [hosts]
-host1 num=1
+localhost num=1
 host2
 host3
