@@ -5,4 +5,4 @@
   tasks:
     - name: print sentence
       debug: 
-        msg: "Hello ansible all heroes and number is {{ num }}"
+        msg: "Hello ansible all heroes and number is "
